@@ -19,4 +19,4 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Web,Open-Source enthusiast & a junior currently pursuing my Bachelor's in Computer Science & Engineering. </br>
+🎓 I’m an Learner, Developer, Coder, & an Open-Source enthusiast. A junior currently pursuing my Bachelor's in Computer Science & Engineering. </br>
