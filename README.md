@@ -19,5 +19,5 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Student, Learner, Developer, Coder, Programmer & an Open-Source enthusiast.</br>
+🎓 I’m an Student, Learner, Developer, Coder, Programmer, Automator & an Open-Source enthusiast.</br>
 🎓 A junior currently pursuing my Bachelor's in Computer Science & Engineering.</br>
