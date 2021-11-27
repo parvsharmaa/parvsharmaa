@@ -17,8 +17,9 @@
 </a>
 
 <br />
+<br>
 
 ### About Me 🚀
-<br>
+
 🎓 I’m an Student, Developer, Coder & an Open-Source enthusiast.</br>
 🎓 A junior currently pursuing my Bachelor's in Computer Science & Engineering.</br>
