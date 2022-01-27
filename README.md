@@ -15,11 +15,3 @@
 <a href="https://www.instagram.com/parvsharma._/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-<br />
-<br>
-
-### About Me 🚀
-
-🎓 I’m an Student, Developer, Coder & an Open-Source enthusiast.</br>
-🎓 A junior currently pursuing my Bachelor's in Computer Science & Engineering.</br>
